@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.landing-page {
+  background: linear-gradient(
+    182.65deg,
+    #2a0b46 -8.6%,
+    #21aa74 13.89%,
+    #2d0659 52.36%,
+    #170233 83.14%,
+    #000000 105.04%
+  );
+}
+
+.signup-button {
+  background: linear-gradient(220.42deg, #250439 -32.21%, #943fff 94.78%);
+  box-shadow: 0px 9px 52px #301e44;
+  border-radius: 50px;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 115.5%;
+  /* identical to box height, or 37px */
+
+  text-align: center;
+  padding: 10px 50px;
+  color: #ffffff;
+}
+
+.market-button {
+  background: linear-gradient(163.76deg, #000000 -31.73%, #7363d2 282.79%);
+}
+
+.about-button {
+  background: linear-gradient(220.42deg, #39ffa6 -21%, #2e0562 94.78%);
+  box-shadow: 0px 9px 52px #301e44;
+  border-radius: 50px;
+}
+
+.bg-images {
+  width: 100%;
+  height: 100%;
+}
+
+.line8 {
+  transform: rotate(-55.76deg);
+}

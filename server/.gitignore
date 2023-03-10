@@ -1,0 +1,7 @@
+node_modules
+response.json
+owners.json
+sales.json
+tokens.json
+uncaughtExceptions.log
+.env
