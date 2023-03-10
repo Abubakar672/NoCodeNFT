@@ -1,0 +1,29 @@
+version: "3"
+
+services:
+  nft-backend:
+    build: ./client
+    restart: always
+    ports:
+      - 4000:4000
+    environment:
+      DATABASE_URL: mongodb://nft-db:27017/nfts
+      NODE_ENV: development
+      PORT: 4000
+
+  nft-frontend:
+    build: ./server
+    restart: always
+    ports:
+      - 3000:3000
+
+  nft-db:
+    image: mongo
+    restart: always
+    ports:
+      - 27017:27017
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: development
+      MONGO_INITDB_ROOT_PASSWORD: testing
+    volumes:
+      - ./mongodb:/data/db
