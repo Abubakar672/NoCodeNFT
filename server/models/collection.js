@@ -1,151 +1,92 @@
-const { Number } = require("mongodb");
 const mongoose = require("mongoose");
 
 const Schema = new mongoose.Schema({
-  id: {
+  _id: {
     type: String,
     required: true,
   },
-  slug: { type: String },
-  createdAt: { type: Date },
-  name: { type: String },
-  image: { type: String },
-  banner: { type: String },
-  discordUrl: { type: String },
-  externalUrl: { type: String },
-  twitterUsername: { type: String },
-  openseaVerificationStatus: { type: String },
-  description: { type: String },
+  name: {
+    type: String,
+  },
+  slug: {
+    type: String,
+  },
+  image: {
+    type: String,
+  },
+  banner: {
+    type: String,
+  },
+  discordUrl: {
+    type: String,
+  },
+  externalUrl: {
+    type: String,
+  },
+  twitterUsername: {
+    type: String,
+  },
+  openseaVerificationStatus: {
+    type: Boolean,
+    default: false,
+  },
+  description: {
+    type: String,
+  },
   sampleImages: { type: [String] },
-  tokenCount: { type: String },
-  onSaleCount: { type: String },
-  primaryContract: { type: String },
-  tokenSetId: { type: String },
-  royalties: {
-    type: {
-      recipient: { type: String },
-      breakdown: {
-        type: [
-          {
-            bps: { type: Number, required: false },
-            recipient: { type: String },
-          },
-        ],
-      },
-      bps: { type: Number },
-    },
+  tokenCount: {
+    type: String,
   },
-  allRoyalties: {
-    type: {
-      eip2981: {
-        type: [
-          {
-            bps: { type: Number },
-            recipient: { type: String },
-          },
-        ],
-      },
-      onchain: {
-        type: [
-          {
-            bps: { type: Number },
-            recipient: { type: String },
-          },
-        ],
-      },
-      opensea: {
-        type: [
-          {
-            bps: { type: Number },
-            recipient: { type: String },
-          },
-        ],
-      },
-    },
+  onSaleCount: {
+    type: String,
   },
-  lastBuy: {
-    type: {
-      value: { type: String, required: false },
-    },
+  primaryContract: {
+    type: String,
   },
-  floorAsk: {
-    type: {
-      id: { type: String },
-      sourceDomain: { type: String },
-      price: {
-        type: {
-          currency: {
-            type: {
-              contract: { type: String },
-              name: { type: String },
-              symbol: { type: String },
-              decimals: { type: Number },
-            },
-          },
-          amount: {
-            type: {
-              raw: { type: String },
-              decimal: { type: Number },
-              usd: { type: Number },
-              native: { type: Number },
-            },
-          },
-        },
-      },
-      maker: { type: String },
-      validFrom: { type: Number },
-      validUntil: { type: Number },
-      token: {
-        type: {
-          contract: { type: String },
-          tokenId: { type: String },
-          name: { type: String },
-          image: { type: String },
-        },
-      },
-    },
+  tokenSetId: {
+    type: String,
+  },
+  collectionBidSupported: {
+    type: Boolean,
+    default: false,
+  },
+  contractKind: {
+    type: String,
   },
   rank: {
-    type: {
-      "1day": { type: Number },
-      "7day": { type: Number },
-      "30day": { type: Number },
-      allTime: { type: Number },
-    },
+    "1day": { type: Number, alias: "_1day" },
+    "7day": { type: Number, alias: "_7day" },
+    "30day": { type: Number, alias: "_30day" },
+    allTime: { type: Number },
   },
   volume: {
-    type: {
-      "1day": { type: Number },
-      "7day": { type: Number },
-      "30day": { type: Number },
-      allTime: { type: Number },
-    },
+    "1day": { type: Number, alias: "_1day" },
+    "7day": { type: Number, alias: "_7day" },
+    "30day": { type: Number, alias: "_30day" },
+    allTime: { type: Number },
   },
   volumeChange: {
-    type: {
-      "1day": { type: Number },
-      "7day": { type: Number },
-      "30day": { type: Number },
-    },
+    "1day": { type: Number, alias: "_1day" },
+    "7day": { type: Number, alias: "_7day" },
+    "30day": { type: Number, alias: "_30day" },
   },
   floorSale: {
-    type: {
-      "1day": { type: Number },
-      "7day": { type: Number },
-      "30day": { type: Number },
-    },
+    "1day": { type: Number, alias: "_1day" },
+    "7day": { type: Number, alias: "_7day" },
+    "30day": { type: Number, alias: "_30day" },
   },
   floorSaleChange: {
-    type: {
-      "1day": { type: Number },
-      "7day": { type: Number },
-      "30day": { type: Number },
-    },
+    "1day": { type: Number, alias: "_1day" },
+    "7day": { type: Number, alias: "_7day" },
+    "30day": { type: Number, alias: "_30day" },
   },
-  collectionBidSupported: { type: Boolean },
-  contractKind: { type: String },
+  lastBuy: { value: { type: String, default: null } },
+  owner: {
+    type: String,
+    ref: "User",
+  },
 });
 
 const Collection = mongoose.model("Collection", Schema);
 
-exports.Collection = Collection;
+module.exports = Collection;

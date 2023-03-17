@@ -1,28 +1,40 @@
+require("dotenv").config();
 const express = require("express");
 const { graphqlHTTP } = require("express-graphql");
 const app = express();
-const schema = require("./schema/schema");
-const dotenv = require("dotenv");
-const errors = require("./middleware/errors");
-app.use(errors);
-dotenv.config();
 const cors = require("cors");
-const { default: axios } = require("axios");
+const winston = require("winston");
+
+const errors = require("./middleware/errors");
+const graphqlSchema = require("./graphql/schema");
+const graphqlResolver = require("./graphql/resolvers");
+const connectToDB = require("./config/db");
+const logging = require("./config/logging");
 
 app.use(cors());
+app.use(errors);
 
-// conect to database
-require("./startup/db")();
-// logging messages
-require("./startup/logging")();
+require("./config/db")();
 
 app.use(
   "/graphql",
   graphqlHTTP({
-    schema,
+    schema: graphqlSchema,
+    rootValue: graphqlResolver,
     graphiql: true,
   })
 );
 
-const port = process.env.PORT || 4001;
-app.listen(port, () => {});
+const port = process.env.PORT;
+
+connectToDB()
+  .then((conn) => {
+    console.log(`MongoDB Connected`);
+    app.listen(port, console.log(`Connected to Port ${port}.`));
+  })
+  .catch((error) => {
+    console.error(`Error: ${error.message}`);
+    winston.error(`Error: ${error.message}`);
+  });
+
+logging();

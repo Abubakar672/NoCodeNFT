@@ -1,0 +1,1260 @@
+[
+  {
+    "_id": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+    "slug": "boredapeyachtclub",
+    "createdAt": "2022-02-09T21:14:58.386Z",
+    "name": "Bored Ape Yacht Club",
+    "image": "https://i.seadn.io/gae/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB?w=500&auto=format",
+    "banner": "https://i.seadn.io/gae/i5dYZRkVCUK97bfprQ3WXyrT9BnLSZtVKGJlKQ919uaUB0sxbngVCioaiyu9r6snqfi2aaTyIvv6DHm4m2R3y7hMajbsv14pSZK8mhs?w=500&auto=format",
+    "discordUrl": "https://discord.gg/3P5K3dzgdB",
+    "externalUrl": "http://www.boredapeyachtclub.com/",
+    "twitterUsername": "BoredApeYC",
+    "openseaVerificationStatus": "verified",
+    "description": "The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board. Future areas and perks can be unlocked by the community through roadmap activation. Visit www.BoredApeYachtClub.com for more details.",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a0f53d7f3142b0e51f50eb2f98b8adf776b1fedb5048c96be2e7940f7d6ce1d0051c5eb5e53928a752c535287d65d1f8d2da42bcfb59ead4828d4495549b3aaf7fa4729fc25c486b9d00ac5ac35bab4f27f06464ba150ba7c3b4979512470f4484122930ae9d5ff221e970c0d41200fc3058ed9feecb44e991ea6b299d1f7ae6c",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a795cde1c97521d6e4094e3b604c7eb56c2e0bcb93e76b399d9733cd27d82cc65bc92fe3bf0b30177897a65f49a2b19bfd6336650314abbd1ead0506cba4ed5533c6c95e172e9ce4089991160fba94274407aa1095c873e4ea0db8b8c111ed1ebd5324940c1b7371e7d008aed2882f3df058ed9feecb44e991ea6b299d1f7ae6c",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a749d590a64e65f802ff1ccb2d840d92d042009e31daa401bcd52fafd67ea0e28a6a2fd70de8c6a554bd80264af5600742097b155b634e4a3da7c5b909cd8c668241dcfcd6f1238eca3f85362b89bfab3391b8bc80db45ba432babf07f14e55cf3c558b737c8bd9f48cb450a15e9f4fece1c36adca3539e5ec9b326e73d154fcd9d90547028f7a3eab3abf92c17a43f5a",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a86f4df4bf77f028d8b098eb528c4b2bf86b331c33abf63410a4a337a68078f50f932d2cc940e6f9323a2afc02798a2c077fe3446c05b09064980c5a120018b2506ca0effd8f95f3f0210bfdcd02fd6e1246176589e30247d0d4ec2ac51f81066a4830b63b2c8d111b1cd5a773e76ee9a23c5e4198f99eda3f3b783c3322e8c56"
+    ],
+    "tokenCount": "10000",
+    "onSaleCount": "357",
+    "primaryContract": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+    "tokenSetId": "contract:0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+    "royalties": {
+      "recipient": "0xaae7ac476b117bccafe2f05f582906be44bc8ff1",
+      "breakdown": [
+        {
+          "bps": 250,
+          "recipient": "0xaae7ac476b117bccafe2f05f582906be44bc8ff1"
+        }
+      ],
+      "bps": 250
+    },
+    "allRoyalties": {
+      "eip2981": [
+        {
+          "bps": 250,
+          "recipient": "0xaae7ac476b117bccafe2f05f582906be44bc8ff1"
+        }
+      ],
+      "onchain": [
+        {
+          "bps": 250,
+          "recipient": "0xaae7ac476b117bccafe2f05f582906be44bc8ff1"
+        }
+      ],
+      "opensea": [
+        {
+          "bps": 250,
+          "recipient": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 7, "7day": 3, "30day": 2, "allTime": 3 },
+    "volume": {
+      "1day": 1274.82123,
+      "7day": 12029.26683,
+      "30day": 84496.70132,
+      "allTime": 1082794.31883
+    },
+    "volumeChange": {
+      "1day": 0.4451730199546612,
+      "7day": 0.358787911044609,
+      "30day": 2.2228469690348724
+    },
+    "floorSale": { "1day": 69.5, "7day": 67, "30day": 43 },
+    "floorSaleChange": {
+      "1day": 1.0132473381294964,
+      "7day": 1.0510550746268656,
+      "30day": 1.6376904651162791
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb",
+    "slug": "cryptopunks",
+    "createdAt": "2022-09-13T15:07:21.425Z",
+    "name": "CryptoPunks",
+    "image": "https://i.seadn.io/gae/BdxvLseXcfl57BiuQcQYdJ64v-aI8din7WPk0Pgo3qQFhAUH-B6i-dCqqc_mCkRIzULmwzwecnohLhrcH8A9mpWIZqA7ygc52Sr81hE?w=500&auto=format",
+    "banner": "https://i.seadn.io/gae/48oVuDyfe_xhs24BC2TTVcaYCX7rrU5mpuQLyTgRDbKHj2PtzKZsQ5qC3xTH4ar34wwAXxEKH8uUDPAGffbg7boeGYqX6op5vBDcbA?w=500&auto=format",
+    "discordUrl": "https://discord.gg/tQp4pSE",
+    "externalUrl": "https://www.larvalabs.com/cryptopunks",
+    "twitterUsername": "larvalabs",
+    "openseaVerificationStatus": "verified",
+    "description": "CryptoPunks launched as a fixed set of 10,000 items in mid-2017 and became one of the inspirations for the ERC-721 standard. They have been featured in places like The New York Times, Christie’s of London, Art|Basel Miami, and The PBS NewsHour.",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75afaed8c87e99f64a09d03e57adef75656bc218ff7dbbb9029d322d2840e1fc3561d50b86640b735a0abd17f202da2024e8d21c0e93300a48a304021f03bdf442f62dc3cce4949b9bfebb1291caa832b280fd5c5a192c6edce10ba126d557617f2842677b634041e1cd0124e1ab55edbca058ed9feecb44e991ea6b299d1f7ae6c",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a049bda7b8b86bf98a9d9c86f232997d379bc8df31f3e3bb99065db4fcb9ad67442e1428bba9ce46e641d23e5a5702b3937c92feb6928cf51c62161dd700d4d2ff8352416dfd501201eb8c0e12827557b2259308def1bb3d39570751cf82ec50566c73ff2da5101f0bc5c47c3aba9652323c5e4198f99eda3f3b783c3322e8c56",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75aebc6d741e5a634c219beff3c33d408ac8e6c53a848e70366ac79deacc50aca9b84460fffee75370e03b36b55f4a45ccaea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a25f44062f753dc561408951b9e9234d3c3dc187bf4b1f4c89b0f7f92f28fa2008187f4850a2bba683b53d3145ddb0ecc60aa4cf87233c4f4ae18d41bd199ebce3b49f5a95dfdb731538209e7e74e184afa735d2470827f28ddda1c24c5091e28c630245ffbb50a0f067e23a9762525a023c5e4198f99eda3f3b783c3322e8c56"
+    ],
+    "tokenCount": "10000",
+    "onSaleCount": "1018",
+    "primaryContract": "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb",
+    "tokenSetId": "contract:0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb",
+    "royalties": { "recipient": null, "breakdown": [], "bps": 0 },
+    "allRoyalties": { "opensea": [] },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 41, "7day": 19, "30day": 27, "allTime": 4 },
+    "volume": {
+      "1day": 139.94,
+      "7day": 2874.5,
+      "30day": 8921.845,
+      "allTime": 1081258.6385
+    },
+    "volumeChange": {
+      "1day": 0.3913092108942453,
+      "7day": 1.715786489188665,
+      "30day": 0.5863869642953606
+    },
+    "floorSale": { "1day": 69.95, "7day": 62, "30day": 63.3 },
+    "floorSaleChange": {
+      "1day": 0.9416726233023588,
+      "7day": 1.0624193548387098,
+      "30day": 1.0406003159557662
+    },
+    "collectionBidSupported": true,
+    "contractKind": "cryptopunks"
+  },
+  {
+    "_id": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+    "slug": "mutant-ape-yacht-club",
+    "createdAt": "2022-02-09T21:11:26.292Z",
+    "name": "Mutant Ape Yacht Club",
+    "image": "https://i.seadn.io/gae/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI?w=500&auto=format",
+    "banner": "https://i.seadn.io/gae/5c-HcdLMinTg3LvEwXYZYC-u5nN22Pn5ivTPYA4pVEsWJHU1rCobhUlHSFjZgCHPGSmcGMQGCrDCQU8BfSfygmL7Uol9MRQZt6-gqA?w=500&auto=format",
+    "discordUrl": null,
+    "externalUrl": null,
+    "twitterUsername": null,
+    "openseaVerificationStatus": "verified",
+    "description": "The MUTANT APE YACHT CLUB is a collection of up to 20,000 Mutant Apes that can only be created by exposing an existing Bored Ape to a vial of MUTANT SERUM or by minting a Mutant Ape in the public sale.",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a6f7133376817930fe821b0d9982a2259ba69376ed69035080a5c94d60d578c99fe5d0de13ba262e66ce5996a9f88689fea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75acf40f2cb82ff09429d7202fac9d8e74bb1df618e8adb1ec6124b01b83360e2809fe0ce5ba725d71ca75b2ca661ce1974ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75ac155d8e6121a126965b852aa640679b9f3148035beb14e444b5340d9064ef1adb847b0a9719ba07d397348888ec35ac3ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a62bc790f317089815920a48fd9b8609447d8ee9614f8d8d48ec77841887976ad50152c1aaade27a16e7f1f617cd0a902d61812b679ee2ae4b1599c25e6f38ad3e889161cf956e56492a4214e360040017f5895fb564b2535799ce3c9f5baba0e110e34853e2d10fd47fc5d11265c00cc058ed9feecb44e991ea6b299d1f7ae6c"
+    ],
+    "tokenCount": "19458",
+    "onSaleCount": "680",
+    "primaryContract": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+    "tokenSetId": "contract:0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+    "royalties": {
+      "recipient": "0xaae7ac476b117bccafe2f05f582906be44bc8ff1",
+      "breakdown": [
+        {
+          "bps": 250,
+          "recipient": "0xaae7ac476b117bccafe2f05f582906be44bc8ff1"
+        }
+      ],
+      "bps": 250
+    },
+    "allRoyalties": {
+      "eip2981": [
+        {
+          "bps": 250,
+          "recipient": "0xaae7ac476b117bccafe2f05f582906be44bc8ff1"
+        }
+      ],
+      "onchain": [
+        {
+          "bps": 250,
+          "recipient": "0xaae7ac476b117bccafe2f05f582906be44bc8ff1"
+        }
+      ],
+      "opensea": [
+        {
+          "bps": 250,
+          "recipient": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 3, "7day": 1, "30day": 1, "allTime": 5 },
+    "volume": {
+      "1day": 2717.9866,
+      "7day": 16378.49142,
+      "30day": 85803.30877,
+      "allTime": 784318.37577
+    },
+    "volumeChange": {
+      "1day": 2.304729241266099,
+      "7day": 0.631754479212548,
+      "30day": 1.7402689027905274
+    },
+    "floorSale": { "1day": 15.123, "7day": 14.5, "30day": 13.528 },
+    "floorSaleChange": {
+      "1day": 1.0121338328458462,
+      "7day": 1.0556206896551723,
+      "30day": 1.1314680662329981
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+    "slug": "otherdeed",
+    "createdAt": "2022-04-29T14:03:45.673Z",
+    "name": "Otherdeed for Otherside",
+    "image": "https://i.seadn.io/gae/yIm-M5-BpSDdTEIJRt5D6xphizhIdozXjqSITgK4phWq7MmAU3qE7Nw7POGCiPGyhtJ3ZFP8iJ29TFl-RLcGBWX5qI4-ZcnCPcsY4zI?w=500&auto=format",
+    "banner": "https://i.seadn.io/gae/E_XVuM8mX1RuqBym2JEX4RBg_sj9KbTFBAi0qU4eBr2E3VCC0bwpWrgHqBOaWsKGTf4-DBseuZJGvsCVBnzLjxqgq7rAb_93zkZ-?w=500&auto=format",
+    "discordUrl": "https://discord.gg/the-otherside",
+    "externalUrl": "https://otherside.xyz",
+    "twitterUsername": "othersidemeta",
+    "openseaVerificationStatus": "verified",
+    "description": "Otherdeed is the key to claiming land in Otherside. Each have a unique blend of environment and sediment — some with resources, some home to powerful artifacts. And on a very few, a Koda roams.",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=36109e01a0f463f89d0054dfb865c355814e73000779cff19c745153c0940b62fed8fefb8afe26b4a29b70dbfb47c397bd580ab8ab8a7dd9a1a1f7d8eb67ee632b871820d430f05553e961b49d572fecad468f2b2545b6c63f197d80a244c06ddc0ed43b2313266a3751b0219f29c3bf723f1e46785d21490178aa1fe378d4cd144ba5dd81452d2973b6455675d447ea",
+      "https://api.reservoir.tools/assets/v1?asset=f8fff09a05a37f10aedf8d6032b67468a2a348d9991abdce7c0be37a4c86a66d64fe6e4f4a8322b310f3f253ce8e73fb05ceb88947f4c641025795fb62adabaa915660dc0e94b4f1f9ca60040d76e6d3b8ce747f117b742063de77aef01d9296",
+      "https://api.reservoir.tools/assets/v1?asset=f8fff09a05a37f10aedf8d6032b67468f033a4579da6116aca3928c38065c269d42956a2a2ba885d1a5a04e04320f1be61ade0ec416e1fa7eb4a3a340166dbb5915660dc0e94b4f1f9ca60040d76e6d3b8ce747f117b742063de77aef01d9296",
+      "https://api.reservoir.tools/assets/v1?asset=f8fff09a05a37f10aedf8d6032b674684368d5b2eb7e56911c842c63341f9f1a7f6083a7f790d9197a23960fb2c331dfc70b3021354ab966a401ddca0ef79cc2915660dc0e94b4f1f9ca60040d76e6d3b8ce747f117b742063de77aef01d9296"
+    ],
+    "tokenCount": "100000",
+    "onSaleCount": "3460",
+    "primaryContract": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+    "tokenSetId": "contract:0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+    "royalties": {
+      "recipient": "0x37ceb4ba093d40234c6fb312d9791b67c04ef49a",
+      "breakdown": [
+        {
+          "bps": 500,
+          "recipient": "0x37ceb4ba093d40234c6fb312d9791b67c04ef49a"
+        }
+      ],
+      "bps": 500
+    },
+    "allRoyalties": {
+      "eip2981": [
+        {
+          "bps": 500,
+          "recipient": "0x37ceb4ba093d40234c6fb312d9791b67c04ef49a"
+        }
+      ],
+      "onchain": [
+        {
+          "bps": 500,
+          "recipient": "0x37ceb4ba093d40234c6fb312d9791b67c04ef49a"
+        }
+      ],
+      "opensea": [
+        {
+          "bps": 500,
+          "recipient": "0x37ceb4ba093d40234c6fb312d9791b67c04ef49a"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 6, "7day": 7, "30day": 3, "allTime": 6 },
+    "volume": {
+      "1day": 1399.65055,
+      "7day": 9827.28451,
+      "30day": 76120.55251,
+      "allTime": 605428.35924
+    },
+    "volumeChange": {
+      "1day": 0.5495094533476187,
+      "7day": 0.6313370364837836,
+      "30day": 2.904445610717499
+    },
+    "floorSale": { "1day": 0.2, "7day": 1.3, "30day": 1.601 },
+    "floorSaleChange": {
+      "1day": 9.082073174390214,
+      "7day": 1.3972420268292636,
+      "30day": 1.1345500530156418
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0xed5af388653567af2f388e6224dc7c4b3241c544",
+    "slug": "azuki",
+    "createdAt": "2022-02-09T21:10:09.763Z",
+    "name": "Azuki",
+    "image": "https://i.seadn.io/gae/H8jOCJuQokNqGBpkBN5wk1oZwO7LM8bNnrHCaekV2nKjnCqw6UB5oaH8XyNeBDj6bA_n1mjejzhFQUP3O1NfjFLHr3FOaeHcTOOT?w=500&auto=format",
+    "banner": "https://i.seadn.io/gae/O0XkiR_Z2--OPa_RA6FhXrR16yBOgIJqSLdHTGA0-LAhyzjSYcb3WEPaCYZHeh19JIUEAUazofVKXcY2qOylWCdoeBN6IfGZLJ3I4A?w=500&auto=format",
+    "discordUrl": "https://discord.gg/azuki",
+    "externalUrl": "http://www.azuki.com",
+    "twitterUsername": "Azuki",
+    "openseaVerificationStatus": "verified",
+    "description": "Take the red bean to join the garden. View the collection at [azuki.com/gallery](https://azuki.com/gallery).\r\n\r\nAzuki starts with a collection of 10,000 avatars that give you membership access to The Garden: a corner of the internet where artists, builders, and web3 enthusiasts meet to create a decentralized future. Azuki holders receive access to exclusive drops, experiences, and more. Visit [azuki.com](https://azuki.com) for more details.\r\n\r\nWe rise together. We build together. We grow together.",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75ad5be5acca1d696b3a99eba95f8a37ffc23e32f3ee4e0f1d8cb5de67e2e7e82974738008b23730410878e1f825d0bcfc1ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a078a8f998cb2edb7db1ff65b7c8ac83365ab94d10dcdd88fb77bb23337a2306bbf0db5d3ec3819fbb9b870342f3b19bfea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a3718cfb7acac818340df6764501f0b8e54f902dc3378cb86df721549beefc99c58c47c352795508bdad4f48a0f4a87b0ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a347cebb4cfb6ddcc9f93537a946a9de4387c21e7c2465b9551ab0538841d2b98788d5343fb13a0de8ad3ea18aa14b855ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d"
+    ],
+    "tokenCount": "10000",
+    "onSaleCount": "405",
+    "primaryContract": "0xed5af388653567af2f388e6224dc7c4b3241c544",
+    "tokenSetId": "contract:0xed5af388653567af2f388e6224dc7c4b3241c544",
+    "royalties": {
+      "recipient": "0xb4d24dacbdffa1bbf9a624044484b3feeb7fdf74",
+      "breakdown": [
+        {
+          "bps": 500,
+          "recipient": "0xb4d24dacbdffa1bbf9a624044484b3feeb7fdf74"
+        }
+      ],
+      "bps": 500
+    },
+    "allRoyalties": {
+      "eip2981": [
+        {
+          "bps": 500,
+          "recipient": "0xb4d24dacbdffa1bbf9a624044484b3feeb7fdf74"
+        }
+      ],
+      "onchain": [
+        {
+          "bps": 500,
+          "recipient": "0xb4d24dacbdffa1bbf9a624044484b3feeb7fdf74"
+        }
+      ],
+      "opensea": [
+        {
+          "bps": 500,
+          "recipient": "0xb4d24dacbdffa1bbf9a624044484b3feeb7fdf74"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 12, "7day": 9, "30day": 5, "allTime": 7 },
+    "volume": {
+      "1day": 733.88836,
+      "7day": 8678.47293,
+      "30day": 53324.33419,
+      "allTime": 463553.67834
+    },
+    "volumeChange": {
+      "1day": 1.4661457794349566,
+      "7day": 0.4993855850189255,
+      "30day": 2.4520130413671604
+    },
+    "floorSale": { "1day": 0.0069, "7day": 14.30555, "30day": 13.5 },
+    "floorSaleChange": {
+      "1day": 2156.521739130435,
+      "7day": 1.0401557437498108,
+      "30day": 1.1022222222222222
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0x495f947276749ce646f68ac8c248420045cb7b5e",
+    "slug": "",
+    "createdAt": "2022-02-09T17:09:22.616Z",
+    "name": "OS Shared Storefront Collection",
+    "image": "https://api.reservoir.tools/assets/v1?asset=36109e01a0f463f89d0054dfb865c355814e73000779cff19c745153c0940b622c8e286b82b6ed997670214679ac1ed61c515fcd3a23ba3e66897884187b372d8374516ddf7d73d0d60239e61d4a5d773aaec4a71d5519068dc7635022ad40e863df3165962440def0c68112db73f71c8f74f9f16b46d2861f18d90c73cd0e4400561ea3e4ae0ba57ba3ef687455417b",
+    "banner": null,
+    "discordUrl": null,
+    "externalUrl": null,
+    "twitterUsername": null,
+    "openseaVerificationStatus": "not_requested",
+    "description": "",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=36109e01a0f463f89d0054dfb865c355814e73000779cff19c745153c0940b622c8e286b82b6ed997670214679ac1ed61c515fcd3a23ba3e66897884187b372d8374516ddf7d73d0d60239e61d4a5d773aaec4a71d5519068dc7635022ad40e863df3165962440def0c68112db73f71c8f74f9f16b46d2861f18d90c73cd0e4400561ea3e4ae0ba57ba3ef687455417b"
+    ],
+    "tokenCount": "1966952",
+    "onSaleCount": "20559",
+    "primaryContract": "0x495f947276749ce646f68ac8c248420045cb7b5e",
+    "tokenSetId": "contract:0x495f947276749ce646f68ac8c248420045cb7b5e",
+    "royalties": { "recipient": null, "breakdown": [], "bps": 0 },
+    "allRoyalties": { "opensea": [] },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 187, "7day": 118, "30day": 106, "allTime": 8 },
+    "volume": {
+      "1day": 13.40821,
+      "7day": 221.32039,
+      "30day": 1165.55805,
+      "allTime": 375074.81414
+    },
+    "volumeChange": {
+      "1day": 0.356930229298319,
+      "7day": 0.8999144998519726,
+      "30day": 1.0124922476654659
+    },
+    "floorSale": { "1day": 0.0008, "7day": 0, "30day": 0 },
+    "floorSaleChange": {
+      "1day": 0.125,
+      "7day": 100000000000000,
+      "30day": 100000000000000
+    },
+    "collectionBidSupported": false,
+    "contractKind": "erc1155"
+  },
+  {
+    "_id": "0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b",
+    "slug": "clonex",
+    "createdAt": "2022-02-09T16:30:18.274Z",
+    "name": "CLONE X - X TAKASHI MURAKAMI",
+    "image": "https://i.seadn.io/gae/XN0XuD8Uh3jyRWNtPTFeXJg_ht8m5ofDx6aHklOiy4amhFuWUa0JaR6It49AH8tlnYS386Q0TW_-Lmedn0UET_ko1a3CbJGeu5iHMg?w=500&auto=format",
+    "banner": "https://i.seadn.io/gae/4elUtz8UyFYDH34vDxd4hpQX8S-EdkFq8s9ombkuQTDBWLwHvsjRM_RXWT2zX8Vt2bAiO2BHslwN57FyTW1JIn_FyFI0BsZfmvmeJQ?w=500&auto=format",
+    "discordUrl": "https://discord.gg/rtfkt",
+    "externalUrl": "http://www.rtfkt.com",
+    "twitterUsername": "RTFKT",
+    "openseaVerificationStatus": "verified",
+    "description": "🧬 CLONE X 🧬\r\n\r\n20,000 next-gen Avatars, by RTFKT and Takashi Murakami 🌸",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a44800b4f63e7682d637099b24b64a73763020341a7564ab6c95391446fa7c8f2a2e16ec0afadb6225200ba8c149917acea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75adc6fb7f60754ce2c2130ce6846c045eb9e1588861faf0f5953306f96f0bd8595de77f727d5da3f7dffbc8386b01681fdea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a200074f0838fa873839bbd83770617e9c4b1ce7a750bddec746bf686976f7720199227c2a703141087eaf40ba18ed92cea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75ae9b702d24bc7393bf612fd8400052bb913ecddd871677c4cd00decdfc1f9bb7bf35e692fe068a4852c97c11b61838ab2ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d"
+    ],
+    "tokenCount": "19458",
+    "onSaleCount": "1056",
+    "primaryContract": "0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b",
+    "tokenSetId": "contract:0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b",
+    "royalties": {
+      "recipient": "0xe65b6865dbce299ae6a20efcc7543362540741d8",
+      "breakdown": [
+        {
+          "bps": 500,
+          "recipient": "0xe65b6865dbce299ae6a20efcc7543362540741d8"
+        }
+      ],
+      "bps": 500
+    },
+    "allRoyalties": {
+      "eip2981": [
+        {
+          "bps": 500,
+          "recipient": "0xe65b6865dbce299ae6a20efcc7543362540741d8"
+        }
+      ],
+      "onchain": [
+        {
+          "bps": 500,
+          "recipient": "0xe65b6865dbce299ae6a20efcc7543362540741d8"
+        }
+      ],
+      "opensea": [
+        {
+          "bps": 500,
+          "recipient": "0xe65b6865dbce299ae6a20efcc7543362540741d8"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 4, "7day": 10, "30day": 6, "allTime": 9 },
+    "volume": {
+      "1day": 2046.33688,
+      "7day": 8110.51095,
+      "30day": 44977.25367,
+      "allTime": 372759.43904
+    },
+    "volumeChange": {
+      "1day": 5.7180684998875195,
+      "7day": 0.6023835824461589,
+      "30day": 5.072075634941004
+    },
+    "floorSale": { "1day": 4.33234, "7day": 1.99, "30day": 4.4977 },
+    "floorSaleChange": {
+      "1day": 1.0363913711116224,
+      "7day": 2.2562814070351758,
+      "30day": 0.9982880138737577
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0x23581767a106ae21c074b2276d25e5c3e136a68b",
+    "slug": "proof-moonbirds",
+    "createdAt": "2022-04-15T17:36:05.484Z",
+    "name": "Moonbirds",
+    "image": "https://i.seadn.io/gae/H-eyNE1MwL5ohL-tCfn_Xa1Sl9M9B4612tLYeUlQubzt4ewhr4huJIR5OLuyO3Z5PpJFSwdm7rq-TikAh7f5eUw338A2cy6HRH75?w=500&auto=format",
+    "banner": "https://i.seadn.io/gae/ouzjfA0LotbHC92vuDph9JDeg7Z4ZFo12Pr9GJpfSAZSrnXDOubJn0eTvinwzUTPsWhnLLq5ocjcDSrpNV0_MYIjueVJrzFlE6p0?w=500&auto=format",
+    "discordUrl": "https://discord.gg/proof",
+    "externalUrl": "https://proof.xyz/moonbirds",
+    "twitterUsername": "moonbirds",
+    "openseaVerificationStatus": "verified",
+    "description": "A collection of 10,000 PFPs which grant their holders access to the digital and IRL Moonbirds community. Community members can nest their birds to signal their commitment, in return for exclusive perks—which so far have included trait-based physical and digital drops, the Oddities, and time-based nesting rewards.\r\n\r\nMoonbird art is entirely in-chain, meaning the images are outputted directly from the smart contract, with no need for storage on IPFS or the like. There are also special gradient backgrounds available to Proof Collective pass holders, which will disappear when the bird is transfered. You can check what each bird looks like with and without this background (and see if they have any unclaimed rewards!) on our [site](https://proof.xyz/moonbirds)",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=a1133d98e8e74b3d5646ca362b1a4ec481c033066095949b9ac65da19476799eb7a3515144d15d1f1cd2959b256a2140c5cc81b3ebf13766f6b817a8a8667da2aaed4267ef9356b6f2369210aa058fa2",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75afcb1574338fe41cb08feab1315d5a9fb77e739454524813a6e418319c050ec5ec77eacdb4b48c01e7566928563803c0aea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a7fe2fb465e2148de5a7321ef20f2136ba03a2dacceaef338f747a15da61a83fe29faac842666cf7687fd41cc93987e58ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=a1133d98e8e74b3d5646ca362b1a4ec481c033066095949b9ac65da19476799ed704ea0a4db5c0a404a0790942ed802917e8d5bdd996861f768addf452ddffb49b9341ee98fe4e7cc8df91df3441b44d"
+    ],
+    "tokenCount": "10000",
+    "onSaleCount": "114",
+    "primaryContract": "0x23581767a106ae21c074b2276d25e5c3e136a68b",
+    "tokenSetId": "contract:0x23581767a106ae21c074b2276d25e5c3e136a68b",
+    "royalties": {
+      "recipient": "0xd1d507b688b518d2b7a4f65007799a5e9d80e974",
+      "breakdown": [
+        {
+          "bps": 500,
+          "recipient": "0xd1d507b688b518d2b7a4f65007799a5e9d80e974"
+        }
+      ],
+      "bps": 500
+    },
+    "allRoyalties": {
+      "eip2981": [
+        {
+          "bps": 500,
+          "recipient": "0x73464dfeac74096a05604234b471412c73d5076f"
+        }
+      ],
+      "onchain": [
+        {
+          "bps": 500,
+          "recipient": "0xd1d507b688b518d2b7a4f65007799a5e9d80e974"
+        }
+      ],
+      "opensea": [
+        {
+          "bps": 500,
+          "recipient": "0xd1d507b688b518d2b7a4f65007799a5e9d80e974"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 14, "7day": 2, "30day": 4, "allTime": 10 },
+    "volume": {
+      "1day": 655.98532,
+      "7day": 13344.1774,
+      "30day": 53409.3434,
+      "allTime": 303299.71536
+    },
+    "volumeChange": {
+      "1day": 0.37302729968147647,
+      "7day": 1.1014296755188213,
+      "30day": 11.037234525735453
+    },
+    "floorSale": { "1day": 5.9979, "7day": 5.589, "30day": 6.609 },
+    "floorSaleChange": {
+      "1day": 1.0153553743810333,
+      "7day": 1.0896403650026838,
+      "30day": 0.9214707217430776
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0x8a90cab2b38dba80c64b7734e58ee1db38b8992e",
+    "slug": "doodles-official",
+    "createdAt": "2022-02-09T21:10:23.583Z",
+    "name": "Doodles",
+    "image": "https://i.seadn.io/gae/7B0qai02OdHA8P_EOVK672qUliyjQdQDGNrACxs7WnTgZAkJa_wWURnIFKeOh5VTf8cfTqW3wQpozGedaC9mteKphEOtztls02RlWQ?w=500&auto=format",
+    "banner": "https://i.seadn.io/gae/svc_rQkHVGf3aMI14v3pN-ZTI7uDRwN-QayvixX-nHSMZBgb1L1LReSg1-rXj4gNLJgAB0-yD8ERoT-Q2Gu4cy5AuSg-RdHF9bOxFDw?w=500&auto=format",
+    "discordUrl": "https://discord.gg/doodles",
+    "externalUrl": "https://doodles.app",
+    "twitterUsername": "doodles",
+    "openseaVerificationStatus": "verified",
+    "description": "A community-driven collectibles project featuring art by Burnt Toast. Doodles come in a joyful range of colors, traits and sizes with a collection size of 10,000. Each Doodle allows its owner to vote for experiences and activations paid for by the Doodles Community Treasury.",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a81cc7d5e363b06f914240bdb81a2ebfe4bc298ec49b1c25914ca4fd62d5d8221afc792e0fb7d033f7f038feb984b5c72ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75ae61816c0d97ae5795c7fed04b6394f6d6c97e3e3af06ec7f63049156d6657d1c876093fbab6339b1ae372e8b9f17c173ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a276bf7f2a80185f308fcc418e792d34db678852e7aabc35ecdba1edbf367ff440321bfff63616f3c133406f75974b961ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75aaad265a39b134128e45312f4300ab81f32f98a138e11958ed2c92e782152dbe3a24fae9d2cdf84b08d928fee4b63a0e8ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d"
+    ],
+    "tokenCount": "10000",
+    "onSaleCount": "497",
+    "primaryContract": "0x8a90cab2b38dba80c64b7734e58ee1db38b8992e",
+    "tokenSetId": "contract:0x8a90cab2b38dba80c64b7734e58ee1db38b8992e",
+    "royalties": {
+      "recipient": "0xd1f124cc900624e1ff2d923180b3924147364380",
+      "breakdown": [
+        {
+          "bps": 500,
+          "recipient": "0xd1f124cc900624e1ff2d923180b3924147364380"
+        }
+      ],
+      "bps": 500
+    },
+    "allRoyalties": {
+      "opensea": [
+        {
+          "bps": 500,
+          "recipient": "0xd1f124cc900624e1ff2d923180b3924147364380"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 11, "7day": 6, "30day": 7, "allTime": 11 },
+    "volume": {
+      "1day": 751.7976,
+      "7day": 10353.89163,
+      "30day": 42838.63644,
+      "allTime": 264537.9373
+    },
+    "volumeChange": {
+      "1day": 0.611796980332164,
+      "7day": 0.9616507544159815,
+      "30day": 2.6487645680367886
+    },
+    "floorSale": { "1day": 5, "7day": 5.08157, "30day": 5.1 },
+    "floorSaleChange": {
+      "1day": 1.0198,
+      "7day": 1.003429054968194,
+      "30day": 0.9998039215686274
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+    "slug": "bored-ape-kennel-club",
+    "createdAt": "2022-02-09T21:11:14.169Z",
+    "name": "Bored Ape Kennel Club",
+    "image": "https://i.seadn.io/gcs/files/c4dfc6be4d9c5d4f073de2efe181416a.jpg?w=500&auto=format",
+    "banner": "https://i.seadn.io/gcs/files/a5414557ae405cb6233b4e2e4fa1d9e6.jpg?w=500&auto=format",
+    "discordUrl": "https://discord.gg/wjH7hGz2yS",
+    "externalUrl": "http://boredapeyachtclub.com/#/kennel-club",
+    "twitterUsername": "boredapeyc",
+    "openseaVerificationStatus": "verified",
+    "description": "It gets lonely in the swamp sometimes. That's why every ape should have a four-legged companion. To curl up at your feet. To bring you a beer. To fire a missile launcher at that bastard Jimmy the Monkey.\r\n\r\nThat's why we've started the Bored Ape Kennel Club, and why we're offering up a dog NFT for adoption to every single member of the BAYC – for free (you only pay gas).\r\n\r\nLearn more at: http://boredapeyachtclub.com/#/kennel-club",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a407eb49b35c768316c1bffd7fdd7d9b7a286800d7de381e36eae2beb80ebfde50c51ea83a576ee40ee3110d3ec4ed39fea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a3266fade2d7f97f34b7919805132bbc386f948f158f84b07b2cd2e08fa9773ea4dbc4d0b03fa3eaf02ac50b4485bf745ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a53c7bcbceb94847ae2dff56cd4e2c012a02ab19ab0bd8527c4cd40b6eec7a694f101b2d9817e0fa9a448f87a164c299fea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a1b4314656629da95040de48cdc6ce7dc57cd3119722a16f3c5e9d2d64b15f08fabb9114e7685f28d90ed43a8d5c0b60cea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d"
+    ],
+    "tokenCount": "9602",
+    "onSaleCount": "290",
+    "primaryContract": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+    "tokenSetId": "contract:0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+    "royalties": { "recipient": null, "breakdown": [], "bps": 0 },
+    "allRoyalties": {
+      "eip2981": [],
+      "onchain": [],
+      "opensea": [
+        {
+          "bps": 250,
+          "recipient": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 30, "7day": 14, "30day": 10, "allTime": 12 },
+    "volume": {
+      "1day": 203.97398,
+      "7day": 5012.41333,
+      "30day": 33339.14104,
+      "allTime": 229554.03861
+    },
+    "volumeChange": {
+      "1day": 0.4574029732384678,
+      "7day": 0.40236329571079116,
+      "30day": 1.2705880653985062
+    },
+    "floorSale": { "1day": 7.07588, "7day": 7.20001, "30day": 7.215 },
+    "floorSaleChange": {
+      "1day": 1.0357722290372364,
+      "7day": 1.017915252895482,
+      "30day": 1.0158004158004157
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0x7bd29408f11d2bfc23c34f18275bbf23bb716bc7",
+    "slug": "meebits",
+    "createdAt": "2022-02-09T21:17:04.752Z",
+    "name": "Meebits",
+    "image": "https://i.seadn.io/gae/d784iHHbqQFVH1XYD6HoT4u3y_Fsu_9FZUltWjnOzoYv7qqB5dLUqpGyHBd8Gq3h4mykK5Enj8pxqOUorgD2PfIWcVj9ugvu8l0?w=500&auto=format",
+    "banner": "https://i.seadn.io/gae/qwnNTSRrf9CVq4LGawMcg7i2KZhD9I5LHA4uSNnB43-UAniBBgpNMSIz013HCKtrB9KFjrJUIRwpGbTzzNA4srJV39t3LnW3vaugmB8?w=500&auto=format",
+    "discordUrl": "https://discord.com/invite/meebits",
+    "externalUrl": null,
+    "twitterUsername": null,
+    "openseaVerificationStatus": "verified",
+    "description": "The Meebits are 20,000 unique 3D voxel characters, created by a custom generative algorithm, then registered on the Ethereum blockchain.",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a07061ee1d1c0580732053044372c0482a9cf4ed7ecc152ee8147dc82c6f1bc4d879953f7afb27a64f7ab3f1c72db80a1ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a147436b5e9b95ed0790f2f40699af32bc18b15b28aebe7e04c6e771c9d88cbd19f241a5b4e20441d4a995fdddcad8a24ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75aab5c3834e49d72a4ecb30f16113d01c7f9e15eacf00cb8265c89736354c213baece7fbd2cce5d8378e969d5fd7bd439eea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a2092b76410449370aed1b9c7ac49d3d62ca14504d90c84d187e4a1a12890bcd8c76d378cc41def0f1364e0a9dd080c16ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d"
+    ],
+    "tokenCount": "20000",
+    "onSaleCount": "498",
+    "primaryContract": "0x7bd29408f11d2bfc23c34f18275bbf23bb716bc7",
+    "tokenSetId": "contract:0x7bd29408f11d2bfc23c34f18275bbf23bb716bc7",
+    "royalties": {
+      "recipient": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+      "breakdown": [
+        {
+          "bps": 500,
+          "recipient": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1"
+        }
+      ],
+      "bps": 500
+    },
+    "allRoyalties": {
+      "opensea": [
+        {
+          "bps": 500,
+          "recipient": "0xa858ddc0445d8131dac4d1de01f834ffcba52ef1"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 18, "7day": 30, "30day": 18, "allTime": 13 },
+    "volume": {
+      "1day": 407.5647,
+      "7day": 1646.78871,
+      "30day": 13218.98951,
+      "allTime": 218171.84435
+    },
+    "volumeChange": {
+      "1day": 1.7577196833041628,
+      "7day": 0.3629885278615815,
+      "30day": 5.004644109558962
+    },
+    "floorSale": { "1day": 3.07, "7day": 2.7, "30day": 2.8051 },
+    "floorSaleChange": {
+      "1day": 1.0846905537459284,
+      "7day": 1.2333333333333332,
+      "30day": 1.1871234537093152
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0x81ae0be3a8044772d04f32398bac1e1b4b215aa8",
+    "slug": "dreadfulz",
+    "createdAt": "2022-03-31T09:58:21.943Z",
+    "name": "Dreadfulz",
+    "image": "https://i.seadn.io/gae/oQSLnpxU-UkQ_uYPNKL2MIpHAwjylHeguSiBOpsNbJAmspGswIOzRKy8KIvLlFn7-Oq-jcpp8gYeGtuEi49iXDxkiNl0kast1oZauQ?w=500&auto=format",
+    "banner": "https://i.seadn.io/gae/WZYz7rZ9d0bF4vEx7XNLa1Ok42K3yYIWxhbUVtNgNmQgMoBsqsvzsa9sMvWYIXATI5QuUC0zmpIC7E_5dYUCl8GCCVVZBQeBUN0kIQ?w=500&auto=format",
+    "discordUrl": "https://discord.gg/dreadfulz",
+    "externalUrl": "https://stake.dreadfulz.com",
+    "twitterUsername": "DreadfulzNFT",
+    "openseaVerificationStatus": "disabled_top_trending",
+    "description": "73.82% Staked\r\n\r\nHolder count on Opensea is incorrect due to staking contract\r\n\r\nStake & Earn $DREAD: https://stake.dreadfulz.com\r\n\r\n7,777 Dreadfulz have inked their name in fealty to the Grand Inquisitor. Bound by avarice, lustful for $DREAD.",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a158e09a2ec896a6232c72291c90d90d74efecd81dfbcb12744130fe480647b3313c061da89f5969c1f18d9c4c3f27bfdea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a98dcf3416899ac9c62d248443db878e55b9b939486874d6c674b33c0cd2184c8d307adf4ad26f061e2544b0ec8411a09ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a34c82b5bdc779d1c09a37ae2fbbcc3883513fe3ca518ad3458b468107abcef5c064d733d10d56b5bfa23b3ba645cfcc4ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a8a15c88e0993448e605c25515005031267bee841ce9b9854e2ea0ec6f09b7374d69aefb7e3c114dc1a8d2a6f4ce863f1ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d"
+    ],
+    "tokenCount": "7777",
+    "onSaleCount": "193",
+    "primaryContract": "0x81ae0be3a8044772d04f32398bac1e1b4b215aa8",
+    "tokenSetId": "contract:0x81ae0be3a8044772d04f32398bac1e1b4b215aa8",
+    "royalties": {
+      "recipient": "0x4f092353a8a54797d7bba99b1d279cbd736531d5",
+      "breakdown": [
+        {
+          "bps": 750,
+          "recipient": "0x4f092353a8a54797d7bba99b1d279cbd736531d5"
+        }
+      ],
+      "bps": 750
+    },
+    "allRoyalties": {
+      "opensea": [
+        {
+          "bps": 750,
+          "recipient": "0x4f092353a8a54797d7bba99b1d279cbd736531d5"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 2055, "7day": 2028, "30day": 3081, "allTime": 14 },
+    "volume": {
+      "1day": 0.07941,
+      "7day": 1.33077,
+      "30day": 3.44646,
+      "allTime": 182247.77675
+    },
+    "volumeChange": {
+      "1day": 0.5016424510423247,
+      "7day": 3.4194312077115208,
+      "30day": 0.0014860653968039367
+    },
+    "floorSale": { "1day": 0.01, "7day": 0.011, "30day": 0.0111 },
+    "floorSaleChange": {
+      "1day": 0.99,
+      "7day": 0.9,
+      "30day": 0.8918918918918919
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0x1a92f7381b9f03921564a437210bb9396471050c",
+    "slug": "cool-cats-nft",
+    "createdAt": "2022-02-09T21:15:15.778Z",
+    "name": "Cool Cats NFT",
+    "image": "https://i.seadn.io/gae/LIov33kogXOK4XZd2ESj29sqm_Hww5JSdO7AFn5wjt8xgnJJ0UpNV9yITqxra3s_LMEW1AnnrgOVB_hDpjJRA1uF4skI5Sdi_9rULi8?w=500&auto=format",
+    "banner": "https://i.seadn.io/gcs/files/9db3e1197b7655b791b125dd86db4bc7.png?w=500&auto=format",
+    "discordUrl": "https://discord.gg/X6A4AXrKaR",
+    "externalUrl": "http://coolcatsnft.com",
+    "twitterUsername": "coolcats",
+    "openseaVerificationStatus": "verified",
+    "description": "Cool Cats is a collection of 9,999 randomly generated and stylistically curated NFTs that exist on the Ethereum Blockchain. Cool Cat holders can participate in exclusive events such as NFT claims, raffles, community giveaways, and more. Remember, all cats are cool, but some are cooler than others.\r\n\r\n- [Cool Cats Collabs](https://opensea.io/collection/cool-cats-collabs)\r\n- [Cool Cats Events](https://opensea.io/collection/cool-cats-events)\r\n- [Cool Cats Achievements](https://opensea.io/collection/cool-cats-achievements)\r\n- [Cool Cats Originals](https://opensea.io/collection/cool-cats-originals)",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a27f89443c007d0803437bfd2c16bed9593c2c3acfa26c226d6e9b9fdc17d69d16bce63ecd8de3361aed4083aff601bedea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a9b7b26a5c8182166af1f5e246dce2fdcda69e7408c72aef55bc08b24b20b0535efa408c56922eaf6cd7d057235d4a41fea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75afe5f5773be4d9b4ceeed306edda9e8349eb1e3d91303f6d4ad4c4f28c54e2186290da970232c9059cea6dc2c8b5e2d13ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a4a1c7272d8406412066df97008662e4ce9129d9cd259360cf435c64d004062382c7c9c609377e47d0c806f1eae1056e7ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d"
+    ],
+    "tokenCount": "9962",
+    "onSaleCount": "405",
+    "primaryContract": "0x1a92f7381b9f03921564a437210bb9396471050c",
+    "tokenSetId": "contract:0x1a92f7381b9f03921564a437210bb9396471050c",
+    "royalties": {
+      "recipient": "0xd98d29beb788ff04e7a648775fcb083282ae9c4b",
+      "breakdown": [
+        {
+          "bps": 500,
+          "recipient": "0xd98d29beb788ff04e7a648775fcb083282ae9c4b"
+        }
+      ],
+      "bps": 500
+    },
+    "allRoyalties": {
+      "opensea": [
+        {
+          "bps": 500,
+          "recipient": "0xd98d29beb788ff04e7a648775fcb083282ae9c4b"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 25, "7day": 44, "30day": 21, "allTime": 15 },
+    "volume": {
+      "1day": 239.0491,
+      "7day": 937.12804,
+      "30day": 12003.05675,
+      "allTime": 141587.74519
+    },
+    "volumeChange": {
+      "1day": 2.4453599372725208,
+      "7day": 0.28955327676539533,
+      "30day": 5.103712871776776
+    },
+    "floorSale": { "1day": 2.06, "7day": 2.06173, "30day": 1.71501 },
+    "floorSaleChange": {
+      "1day": 0.9320388349514563,
+      "7day": 0.9312567600995281,
+      "30day": 1.1195269998425665
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+    "slug": "beanzofficial",
+    "createdAt": "2022-03-31T05:32:40.084Z",
+    "name": "BEANZ Official",
+    "image": "https://i.seadn.io/gae/_R4fuC4QGYd14-KwX2bD1wf-AWjDF2VMabfqWFJhIgiN2FnAUpnD5PLdJORrhQ8gly7KcjhQZZpuzYVPF7CDSzsqmDh97z84j2On?w=500&auto=format",
+    "banner": "https://i.seadn.io/gae/WRcl2YH8E3_7884mcJ0DRN7STGqA8xZQKd-0MFmPftlxUR6i1xB9todMXRW2M6SIpXKAZ842UqKDm1UrkKG8nr7l9NjCkIw-GLQSFQ?w=500&auto=format",
+    "discordUrl": null,
+    "externalUrl": null,
+    "twitterUsername": "Azuki",
+    "openseaVerificationStatus": "verified",
+    "description": "BEANZ are a small species that sprouts from the dirt in the garden. They make for a great sidekick to an Azuki, although some like to kick it alone. They're earnestly driven by the desire to help. However, certain BEANZ feel a calling to pave their own path...",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a05ee89af392f9b3fb21bd1ca6d44dec9aee3d74466806c1237ff360f76ae83b470b2f3d00da3de63967d0d570a1f76daea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a34c82b5bdc779d1c09a37ae2fbbcc38834f7810e2fc5568ac39ef0f05a4899d2d2f78f4872e7bda689ebfc1ca7afad61ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a4ec21afbe8ab372a578a94255d7a4eafc3bb7b0a4ee03be69d8050328b322ae1b0a28444aa21b1ed223de69535b0807bea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75accf33002a759cc3891bd8987161549504f4aa7eec03a736bf3ff67710e4a28dd184dea91792b516c81246ff4a43d354cea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d"
+    ],
+    "tokenCount": "19950",
+    "onSaleCount": "603",
+    "primaryContract": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+    "tokenSetId": "contract:0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+    "royalties": {
+      "recipient": "0xb4d24dacbdffa1bbf9a624044484b3feeb7fdf74",
+      "breakdown": [
+        {
+          "bps": 500,
+          "recipient": "0xb4d24dacbdffa1bbf9a624044484b3feeb7fdf74"
+        }
+      ],
+      "bps": 500
+    },
+    "allRoyalties": {
+      "eip2981": [
+        {
+          "bps": 500,
+          "recipient": "0xb4d24dacbdffa1bbf9a624044484b3feeb7fdf74"
+        }
+      ],
+      "onchain": [
+        {
+          "bps": 500,
+          "recipient": "0xb4d24dacbdffa1bbf9a624044484b3feeb7fdf74"
+        }
+      ],
+      "opensea": [
+        {
+          "bps": 500,
+          "recipient": "0xb4d24dacbdffa1bbf9a624044484b3feeb7fdf74"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 28, "7day": 32, "30day": 12, "allTime": 16 },
+    "volume": {
+      "1day": 205.51579,
+      "7day": 1586.86139,
+      "30day": 24458.9721,
+      "allTime": 137709.00388
+    },
+    "volumeChange": {
+      "1day": 1.409470274601322,
+      "7day": 0.47515906513903156,
+      "30day": 2.4082363672799154
+    },
+    "floorSale": { "1day": 1.175, "7day": 1.42505, "30day": 1.13114 },
+    "floorSaleChange": {
+      "1day": 1.1828936170212765,
+      "7day": 0.9753341988007265,
+      "30day": 1.2287633396744049
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0xbd3531da5cf5857e7cfaa92426877b022e612cf8",
+    "slug": "pudgypenguins",
+    "createdAt": "2022-02-09T21:17:25.374Z",
+    "name": "Pudgy Penguins",
+    "image": "https://i.seadn.io/gae/yNi-XdGxsgQCPpqSio4o31ygAV6wURdIdInWRcFIl46UjUQ1eV7BEndGe8L661OoG-clRi7EgInLX4LPu9Jfw4fq0bnVYHqg7RFi?w=500&auto=format",
+    "banner": "https://i.seadn.io/gcs/files/89f0cd4457af5632e66fb44bf43309cd.png?w=500&auto=format",
+    "discordUrl": "https://discord.gg/pudgypenguins",
+    "externalUrl": "https://www.pudgypenguins.com/",
+    "twitterUsername": "pudgypenguins",
+    "openseaVerificationStatus": "verified",
+    "description": "Pudgy Penguins is a collection of 8,888 NFT’s, accelerating Web3 innovation through IP utilization and community empowerment. Embodying love, empathy, & compassion, the Pudgy Penguins are a beacon of good vibes & positivity for everyone. Each holder receives exclusive access to experiences, events, IP licensing opportunities and more. Let’s break through the boundaries of Web3 together.\r\n\r\nPudgy Collections:\r\n[Lil Pudgys](https://opensea.io/collection/lilpudgys) | [Pudgy Rods](https://opensea.io/collection/pudgyrods)",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a861c02eea764ee4300a5e5c6058065cfd0b75d06f05dcd53ab03150332228db110b4fecfd94f9dbbf28071513973f494ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a79fda022a4f995014f0233406802810a89a47c87c28d7ffb38311faa8afb6fb4af4e658583ff2ebab4c106c9844f6a78ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75afca0f2c5caefefac345006e12815a90ac6335b55f3923be1ad2c4ae70fe3973c0f9288957ef48ab48e19d80899f1c48bea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75afca0f2c5caefefac345006e12815a90a956979940f433034bee3b9fb41046ac7673c89accef9418d0f600b7e72a811cfea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d"
+    ],
+    "tokenCount": "8888",
+    "onSaleCount": "418",
+    "primaryContract": "0xbd3531da5cf5857e7cfaa92426877b022e612cf8",
+    "tokenSetId": "contract:0xbd3531da5cf5857e7cfaa92426877b022e612cf8",
+    "royalties": {
+      "recipient": "0x1afa64e9b8e3090f2001f66d9c9a74cde646738a",
+      "breakdown": [
+        {
+          "bps": 500,
+          "recipient": "0x1afa64e9b8e3090f2001f66d9c9a74cde646738a"
+        }
+      ],
+      "bps": 500
+    },
+    "allRoyalties": {
+      "eip2981": [
+        {
+          "bps": 500,
+          "recipient": "0x1afa64e9b8e3090f2001f66d9c9a74cde646738a"
+        }
+      ],
+      "onchain": [
+        {
+          "bps": 500,
+          "recipient": "0x1afa64e9b8e3090f2001f66d9c9a74cde646738a"
+        }
+      ],
+      "opensea": [
+        {
+          "bps": 500,
+          "recipient": "0x1afa64e9b8e3090f2001f66d9c9a74cde646738a"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 26, "7day": 15, "30day": 11, "allTime": 17 },
+    "volume": {
+      "1day": 223.1539,
+      "7day": 4481.17485,
+      "30day": 32045.51463,
+      "allTime": 131853.7863
+    },
+    "volumeChange": {
+      "1day": 0.6402076055276937,
+      "7day": 0.5054351057754845,
+      "30day": 3.898551229775703
+    },
+    "floorSale": { "1day": 5.3836, "7day": 5.64, "30day": 5 },
+    "floorSaleChange": {
+      "1day": 1.0678727988706442,
+      "7day": 1.0193262411347517,
+      "30day": 1.1498
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85",
+    "slug": "ens",
+    "createdAt": "2022-02-09T15:25:43.854Z",
+    "name": "ENS: Ethereum Name Service",
+    "image": "https://i.seadn.io/gae/0cOqWoYA7xL9CkUjGlxsjreSYBdrUBE0c6EO1COG4XE8UeP-Z30ckqUNiL872zHQHQU5MUNMNhfDpyXIP17hRSC5HQ?w=500&auto=format",
+    "banner": null,
+    "discordUrl": null,
+    "externalUrl": "https://ens.domains",
+    "twitterUsername": "ensdomains",
+    "openseaVerificationStatus": "verified",
+    "description": "Ethereum Name Service (ENS) domains are secure domain names for the decentralized world. ENS domains provide a way for users to map human readable names to blockchain and non-blockchain resources, like Ethereum addresses, IPFS hashes, or website URLs. ENS domains can be bought and sold on secondary markets.",
+    "sampleImages": [],
+    "tokenCount": "2956062",
+    "onSaleCount": "300969",
+    "primaryContract": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85",
+    "tokenSetId": "contract:0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85",
+    "royalties": { "recipient": null, "breakdown": [], "bps": 0 },
+    "allRoyalties": { "opensea": [] },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 89, "7day": 53, "30day": 59, "allTime": 18 },
+    "volume": {
+      "1day": 45.24041,
+      "7day": 809.22872,
+      "30day": 2821.05515,
+      "allTime": 115586.13306
+    },
+    "volumeChange": {
+      "1day": 0.4278419881206443,
+      "7day": 1.6461307281512276,
+      "30day": 0.9423062588045672
+    },
+    "floorSale": { "1day": 0.0001, "7day": 0.0001, "30day": 0.00001 },
+    "floorSaleChange": { "1day": 0.1, "7day": 0.1, "30day": 1 },
+    "collectionBidSupported": false,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+    "slug": "sandbox",
+    "createdAt": "2022-02-09T17:13:34.916Z",
+    "name": "The Sandbox",
+    "image": "https://i.seadn.io/gae/SXH8tW1siikB80rwCRnjm1a5xM_MwTg9Xl9Db6mioIk9HIlDM09pVoSR7GKJgS6ulSUpgW9BDtMk_ePX_NKgO9A?w=500&auto=format",
+    "banner": "https://i.seadn.io/gcs/files/fb46c14805de22fb1565130608b52f62.png?w=500&auto=format",
+    "discordUrl": "https://discord.gg/vAe4zvY",
+    "externalUrl": "https://www.sandbox.game/",
+    "twitterUsername": "thesandboxgame",
+    "openseaVerificationStatus": "verified",
+    "description": "The Sandbox is a community-driven platform where creators can monetize voxel assets and gaming experiences on the blockchain. The Sandbox metaverse comprises a map made up of 166,464 LANDS.  LAND owners can host contests and events, stake SAND to earn and customize assets, monetize assets and experiences, vote in the metaverse governance, play games that you or others create, and more! Trade the collection and keep your eyes peeled for future drops.",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=3cb2435c71297f6f7c7f5376999b1d481878fe965d2da971be1524cf5e83b15a829c459fd9601fc62cbf0fff529871b4f09391f91ae808955a5bbd38dc327e64c85ae4424a2fbec6b405b73d99f7eef1dab08fca4edb23cf0d62dd5d23e122479d90547028f7a3eab3abf92c17a43f5a"
+    ],
+    "tokenCount": "105400",
+    "onSaleCount": "0",
+    "primaryContract": "0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+    "tokenSetId": "contract:0x50f5474724e0ee42d9a4e711ccfb275809fd6d4a",
+    "royalties": {
+      "recipient": "0x7a9fe22691c811ea339d9b73150e6911a5343dca",
+      "breakdown": [
+        {
+          "bps": 500,
+          "recipient": "0x7a9fe22691c811ea339d9b73150e6911a5343dca"
+        }
+      ],
+      "bps": 500
+    },
+    "allRoyalties": null,
+    "lastBuy": { "value": null },
+    "rank": { "1day": null, "7day": null, "30day": null, "allTime": 19 },
+    "volume": { "1day": 0, "7day": 0, "30day": 0, "allTime": 98743.1533 },
+    "volumeChange": { "1day": 0, "7day": 0, "30day": 0 },
+    "floorSale": { "1day": 1.42, "7day": 1.42, "30day": 1.42 },
+    "floorSaleChange": { "1day": 0, "7day": 0, "30day": 0 },
+    "collectionBidSupported": false,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0xe785e82358879f061bc3dcac6f0444462d4b5330",
+    "slug": "world-of-women-nft",
+    "createdAt": "2022-02-09T21:15:06.245Z",
+    "name": "World of Women",
+    "image": "https://i.seadn.io/gae/EFAQpIktMBU5SU0TqSdPWZ4byHr3hFirL_mATsR8KWhM5z-GJljX8E73V933lkyKgv2SAFlfRRjGsWvWbQQmJAwu3F2FDXVa1C9F?w=500&auto=format",
+    "banner": "https://i.seadn.io/gae/GHhptRLebBOWOy8kfXpYCVqsqdes-1-6I_jbuRnGTHHW6TD63CtciH75Dotfu2u8v6EmkWt-tjhkFRVLxRUwgMfKqqy5W24AolJayeo?w=500&auto=format",
+    "discordUrl": "https://discord.gg/worldofwomen",
+    "externalUrl": "http://worldofwomen.art",
+    "twitterUsername": "worldofwomennft",
+    "openseaVerificationStatus": "verified",
+    "description": "World of Women is a collection of 10,000 NFTs that gives you full access to our network of artists, creators, entrepreneurs, and executives who are championing diversity and equal opportunity on the blockchain.\n\nCreated and illustrated by Yam Karkai (@ykarkai), World of Women has made prominent appearances at Christie's, The New Yorker and Billboard.\n\nJoin us to receive exclusive access to NFT drops, experiences, and much more.\n\nThe Time is WoW.",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75afa5e504c79c27afaa4f42d8514082733e5e43354e278fdcf786bfe6c8e7e6d31d802101b6cd7feba3db02b4b96241607ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a8cb99963acc1543f366cd879000eb709db8ce227c60c0e94a19fc81ca4ec2351e8faca8882cd218aa7c9bd25caf5fb5aea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75ac762ad615ac41ea00b198d973dfc53a29508ca1d71a319dcc26a26c5dec15efd8df0a56aa79f5a356fc1d8ac721d168dea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75aa31f07a5e5ffe88435f30c77108aaba88f32af71bacc5254e77abd93697ca26b192c9bcfd9e14ed69b446a946430c7c9ea4ed5a4d740f5709928267c775f4eff2573e7e40288fee9530d283ebd0a413d"
+    ],
+    "tokenCount": "10000",
+    "onSaleCount": "358",
+    "primaryContract": "0xe785e82358879f061bc3dcac6f0444462d4b5330",
+    "tokenSetId": "contract:0xe785e82358879f061bc3dcac6f0444462d4b5330",
+    "royalties": {
+      "recipient": "0xb1ab2274b58b23d2a701f164b9a641efc69bc3f1",
+      "breakdown": [
+        {
+          "bps": 400,
+          "recipient": "0xb1ab2274b58b23d2a701f164b9a641efc69bc3f1"
+        }
+      ],
+      "bps": 400
+    },
+    "allRoyalties": {
+      "eip2981": [
+        {
+          "bps": 400,
+          "recipient": "0xb1ab2274b58b23d2a701f164b9a641efc69bc3f1"
+        }
+      ],
+      "onchain": [
+        {
+          "bps": 400,
+          "recipient": "0xb1ab2274b58b23d2a701f164b9a641efc69bc3f1"
+        }
+      ],
+      "opensea": [
+        {
+          "bps": 400,
+          "recipient": "0xb1ab2274b58b23d2a701f164b9a641efc69bc3f1"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 46, "7day": 46, "30day": 65, "allTime": 20 },
+    "volume": {
+      "1day": 127.456,
+      "7day": 916.69886,
+      "30day": 2432.68928,
+      "allTime": 83401.11289
+    },
+    "volumeChange": {
+      "1day": 0.8139113864961567,
+      "7day": 2.2059298232057833,
+      "30day": 3.227710662243799
+    },
+    "floorSale": { "1day": 1.52, "7day": 1.73628, "30day": 1.4704 },
+    "floorSaleChange": {
+      "1day": 1.0398684210526317,
+      "7day": 0.9103388995846334,
+      "30day": 1.0749455930359086
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7",
+    "slug": "lootproject",
+    "createdAt": "2022-02-09T21:25:05.431Z",
+    "name": "Loot (for Adventurers)",
+    "image": "https://i.seadn.io/gae/g-NFUWjS4IGgym8PHBxyhg5-G_B4x-IHgPKRkxo00JQFE3LOd-95yU2uhrokITVmV7KHEav6OMfAhfJ4roC5hwP-0tI9dMRd9wQLdw?w=500&auto=format",
+    "banner": "https://i.seadn.io/gae/9ZFvZ36HHtEqJrcVzX6NGD7vlMe3cjRMOEypswu9g3eNMw0jFYc51qxo_BbsPGBZiviOBTw5_YgjnFptmwg7olZGWHjSqLHkKYX4Qg?w=500&auto=format",
+    "discordUrl": null,
+    "externalUrl": "https://lootproject.com",
+    "twitterUsername": null,
+    "openseaVerificationStatus": "verified",
+    "description": "Loot is randomized adventurer gear generated and stored on chain. Stats, images, and other functionality are intentionally omitted for others to interpret. Feel free to use Loot in any way you want.",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d7b85152199f7a440c9bb5541368ad0509fc9d29a281a74a9796d91ee0129cfe42ee4f4a35ad4c702f2a7e872ca7a30b",
+      "https://api.reservoir.tools/assets/v1?asset=d7b85152199f7a440c9bb5541368ad0509fc9d29a281a74a9796d91ee0129cfe37c1565eb2b2ee924a9ac63e59d8f56a",
+      "https://api.reservoir.tools/assets/v1?asset=d7b85152199f7a440c9bb5541368ad0509fc9d29a281a74a9796d91ee0129cfe2d0be3b2f868ae783f97840fc0a3354c",
+      "https://api.reservoir.tools/assets/v1?asset=d7b85152199f7a440c9bb5541368ad0509fc9d29a281a74a9796d91ee0129cfed9a7411806a0c93e67d394fc60142645"
+    ],
+    "tokenCount": "7779",
+    "onSaleCount": "113",
+    "primaryContract": "0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7",
+    "tokenSetId": "contract:0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7",
+    "royalties": {
+      "recipient": "0x8cfdf9e9f7ea8c0871025318407a6f1fbc5d5a18",
+      "breakdown": [
+        {
+          "bps": 500,
+          "recipient": "0x8cfdf9e9f7ea8c0871025318407a6f1fbc5d5a18"
+        }
+      ],
+      "bps": 500
+    },
+    "allRoyalties": {
+      "opensea": [
+        {
+          "bps": 500,
+          "recipient": "0x8cfdf9e9f7ea8c0871025318407a6f1fbc5d5a18"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 509, "7day": 237, "30day": 200, "allTime": 21 },
+    "volume": {
+      "1day": 2.043,
+      "7day": 72.76356,
+      "30day": 425.06654,
+      "allTime": 79085.60772
+    },
+    "volumeChange": {
+      "1day": 1.2307228915662651,
+      "7day": 0.5702227573029554,
+      "30day": 11.24429427178404
+    },
+    "floorSale": { "1day": 0.39, "7day": 0.56, "30day": 0.475 },
+    "floorSaleChange": {
+      "1day": 1.3074358974358975,
+      "7day": 0.9105357142857143,
+      "30day": 1.0734736842105264
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  },
+  {
+    "_id": "0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6",
+    "slug": "cryptoadz-by-gremplin",
+    "createdAt": "2022-02-09T21:10:24.782Z",
+    "name": "CrypToadz by GREMPLIN",
+    "image": "https://i.seadn.io/gae/iofetZEyiEIGcNyJKpbOafb_efJyeo7QOYnTog8qcQJhqoBU-Vu9l3lXidZhXOAdu6dj4fzWW6BZDU5vLseC-K03rMMu-_j2LvwcbHo?w=500&auto=format",
+    "banner": "https://i.seadn.io/gae/fUxEZ8mnuCho4KrCZDVckFz4mSr8QwjpS05SP-Zei2P_rw7N81cBD__0YwWsACd1Y0qLZgvdMPhUmfPe17J51QQjShlmTTXxj2G7-PQ?w=500&auto=format",
+    "discordUrl": "https://discord.gg/8QtAYPgjAw",
+    "externalUrl": "https://cryptoadz.io",
+    "twitterUsername": "cryptoadzNFT",
+    "openseaVerificationStatus": "verified",
+    "description": "CrypToadz are a collection 6969 small amphibious creatures trying to escape the tyrannical rule of the Evil King Gremplin. Created by Gremplin, with a small bit of help from his friends.\r\n\r\nThis project is in the public domain. Feel free to use the toadz in any way you want.",
+    "sampleImages": [
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a80a6cf454f94a4476eaa4bd6c4722724c4734823015fac23375fb61f33ac680d982d5dadf5e7e1bc3b6b7a7f426bf84087ea1620d60c13f13b22f1afd5b1b5a5ca826f66cd0f7f2bf52df56b8b71b04f18b658eee5c8f022542d6f4ecaf4824f4a45e6c3ba55aee7dd3f6f0c35d478ff058ed9feecb44e991ea6b299d1f7ae6c",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75aff06dc8d2e2b490dad7be480fffa5f5ec92b1bccf342c3157d0b48efb4e1c8070fce9811438679de8aea213ef1ec2d6ae52639ed575a35d17810b196f423e5b5ac1a098e68c14bedd3865bbfdb46e1493d89972291de8210e45b6c16184b44d3fa789351b18c2b8b15678bf0d572e43ae1c36adca3539e5ec9b326e73d154fcd9d90547028f7a3eab3abf92c17a43f5a",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a66ca1474e38dfe74f54bbf542e7a54e74ec5f7662e74ac94cfed2b93bdc2283179c2db923689792d12e7153ca40d69eee637397c5abc266ad694de29d02b55a1920aa2151f13177be896e36d0d5170bc598eb1136759feab8c6e9e7542bf249f3bdee2d8ca7dae49b7b6c88719ddc97f23c5e4198f99eda3f3b783c3322e8c56",
+      "https://api.reservoir.tools/assets/v1?asset=d13dd00e722beffaf6c818fc35b7e75a08260daa62fe9bc927ee3b9030c5c7704df098eabf3787207f66694578e2ceb9a397f00f6688e036f5eec57d9c8442357f4bfc060ef459402c71e92201052495639ecfe32d0ae191ac85937eebe9662c4c351f7c855a178d5ddf6a3622fb79c5ef16cd55e9fc529b1f234f0e3c176c26e1c36adca3539e5ec9b326e73d154fcd9d90547028f7a3eab3abf92c17a43f5a"
+    ],
+    "tokenCount": "7025",
+    "onSaleCount": "384",
+    "primaryContract": "0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6",
+    "tokenSetId": "contract:0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6",
+    "royalties": {
+      "recipient": "0x794b675c0e69fe8f586909ca98915243cf689672",
+      "breakdown": [
+        {
+          "bps": 250,
+          "recipient": "0x794b675c0e69fe8f586909ca98915243cf689672"
+        }
+      ],
+      "bps": 250
+    },
+    "allRoyalties": {
+      "opensea": [
+        {
+          "bps": 250,
+          "recipient": "0x794b675c0e69fe8f586909ca98915243cf689672"
+        }
+      ]
+    },
+    "lastBuy": { "value": null },
+    "rank": { "1day": 107, "7day": 144, "30day": 117, "allTime": 22 },
+    "volume": {
+      "1day": 32.198,
+      "7day": 144.33061,
+      "30day": 917.84824,
+      "allTime": 77453.03354
+    },
+    "volumeChange": {
+      "1day": 1.2422547166171534,
+      "7day": 0.46542565099119915,
+      "30day": 2.1710186200860657
+    },
+    "floorSale": { "1day": 1.08764, "7day": 1.159, "30day": 1.194 },
+    "floorSaleChange": {
+      "1day": 1.075723585009746,
+      "7day": 1.009490940465919,
+      "30day": 0.9798994974874372
+    },
+    "collectionBidSupported": true,
+    "contractKind": "erc721"
+  }
+]
