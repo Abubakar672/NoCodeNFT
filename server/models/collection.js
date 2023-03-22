@@ -1,8 +1,9 @@
 const mongoose = require("mongoose");
 
-const Schema = new mongoose.Schema({
-  _id: {
+const schema = new mongoose.Schema({
+  collectionId: {
     type: String,
+    unique: true,
     required: true,
   },
   name: {
@@ -17,25 +18,18 @@ const Schema = new mongoose.Schema({
   banner: {
     type: String,
   },
-  discordUrl: {
-    type: String,
-  },
   externalUrl: {
     type: String,
   },
-  twitterUsername: {
-    type: String,
-  },
   openseaVerificationStatus: {
-    type: Boolean,
-    default: false,
+    type: String,
   },
   description: {
     type: String,
   },
   sampleImages: { type: [String] },
   tokenCount: {
-    type: String,
+    type: Number,
   },
   onSaleCount: {
     type: String,
@@ -48,7 +42,6 @@ const Schema = new mongoose.Schema({
   },
   collectionBidSupported: {
     type: Boolean,
-    default: false,
   },
   contractKind: {
     type: String,
@@ -80,13 +73,35 @@ const Schema = new mongoose.Schema({
     "7day": { type: Number, alias: "_7day" },
     "30day": { type: Number, alias: "_30day" },
   },
-  lastBuy: { value: { type: String, default: null } },
-  owner: {
-    type: String,
-    ref: "User",
+  floorAsk: {
+    id: { type: String },
+    sourceDomain: { type: String },
+    price: {
+      currency: {
+        contract: { type: String },
+        name: { type: String },
+        symbol: { type: String },
+        decimals: { type: String },
+      },
+      amount: {
+        raw: { type: String },
+        decimal: { type: Number },
+        usd: { type: Number },
+        native: { type: Number },
+      },
+    },
+    maker: { type: String },
+    validFrom: { type: Number },
+    validUntil: { type: Number },
+    token: {
+      contract: { type: String },
+      tokenId: { type: String },
+      name: { type: String },
+      image: { type: String },
+    },
   },
 });
 
-const Collection = mongoose.model("Collection", Schema);
+const Collection = mongoose.model("Collection", schema);
 
 module.exports = Collection;

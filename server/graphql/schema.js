@@ -1,6 +1,37 @@
 const { buildSchema } = require("graphql");
 
 module.exports = buildSchema(`
+    type FloorPriceCurrency {
+        contract: String
+        name: String
+        symbol: String
+        decimals: String
+    }
+    type FloorPriceAmount {
+        raw:String
+        decimal: Float
+        usd:Float
+        native:Float
+    }
+    type FloorPrice {
+        currency: FloorPriceCurrency
+        amount: FloorPriceAmount
+    }
+    type FloorToken {
+        contract:String
+        tokenId:String
+        name:String
+        image:String
+    }
+    type FloorAsk {
+        id: String
+        sourceDomain:String
+        price:FloorPrice
+        maker: String
+        validFrom: Float
+        validUntil: Float
+        token: FloorToken
+    }
     type Rank{
         _1day: Float!
         _7day: Float!
@@ -18,19 +49,36 @@ module.exports = buildSchema(`
         _7day: Float!
         _30day: Float!
     }
-    type LastBuy{
-        value:String!
+    type LastTokenBuy{
+        value:Float,
+        timestamp:Float
+    }
+    type Token{
+        contract:String
+        tokenId:String
+        name:String
+        description:String
+        image:String
+        media:String
+        kind:String
+        isFlagged:Boolean
+        lastFlagUpdate:String
+        lastFlagChange:String
+        rarity:Float
+        rarityRank:Float
+        lastBuy:LastTokenBuy
+        lastSell:LastTokenBuy
+        owner:String
+        collection:Collection
     }
     type Collection{
-        _id: String
+        collectionId:String
         name:String
         slug:String
         image:String
         banner:String
-        discordUrl:String
         externalUrl:String
-        twitterUsername:String
-        openseaVerificationStatus:Boolean
+        openseaVerificationStatus:String
         description: String
         sampleImages: [String!],
         tokenCount: String
@@ -44,19 +92,15 @@ module.exports = buildSchema(`
         volumeChange: Change
         floorSale: Change
         floorSaleChange:Change
-        lastBuy:LastBuy,
-    }    
-    input CollectionInputData{
-        name:String!
-    }  
+        floorAsk: FloorAsk
+    }
     type RootQuery {
         collections:[Collection]
-    }
-    type RootMutation {
-        updateCollection(id: ID!, collectionInput:CollectionInputData): Collection!
-    }
+        collection(id:String!):Collection
+        tokens(collectionId:String!):[Token]
+        token(id:String!):Token
+    }  
     schema {
         query: RootQuery
-        mutation: RootMutation
     }
 `);

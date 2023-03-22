@@ -1,68 +1,30 @@
 const mongoose = require("mongoose");
 
-const Schema = new mongoose.Schema({
-  _id: {
-    type: String,
-    required: true,
-  },
-  contract: {
-    type: String,
-  },
-  tokenId: {
-    type: String,
-  },
-  name: {
-    type: String,
-  },
-  description: {
-    type: String,
-  },
-  image: {
-    type: String,
-  },
-  media: {
-    type: String,
-    default: null,
-  },
-  kind: {
-    type: String,
-  },
-  isFlagged: {
-    type: Boolean,
-    default: false,
-  },
-  lastFlagUpdate: {
-    type: Date,
-    default: Date.now(),
-  },
-  lastFlagChange: {
-    type: Date,
-    default: null,
-  },
-  rarity: {
-    type: Number,
-  },
-  rarityRank: {
-    type: Number,
-  },
+const schema = new mongoose.Schema({
+  contract: { type: String, index: true, required: true },
+  tokenId: { type: String, required: true, unique: true, index: true },
+  name: { type: String },
+  description: { type: String },
+  image: { type: String },
+  media: { type: String },
+  kind: { type: String },
+  isFlagged: { type: Boolean },
+  lastFlagUpdate: { type: Date },
+  lastFlagChange: { type: Date },
+  rarity: { type: Number },
+  rarityRank: { type: Number },
+  collectionId: { type: String },
   lastBuy: {
-    value: { type: Number, default: null },
-    timestamp: { type: Date, default: null },
+    value: Number,
+    timestamp: Number,
   },
   lastSell: {
-    value: { type: Number, default: null },
-    timestamp: { type: Date, default: null },
+    value: Number,
+    timestamp: Number,
   },
-  owner: {
-    type: String,
-    ref: "User",
-  },
-  collection: {
-    type: String,
-    ref: "Collection",
-  },
+  owner: { type: String },
 });
 
-const Token = mongoose.model("Token", Schema);
+const Token = mongoose.model("Token", schema);
 
 module.exports = Token;

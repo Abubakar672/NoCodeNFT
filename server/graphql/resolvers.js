@@ -1,27 +1,21 @@
 const Collection = require("../models/collection");
+const Token = require("../models/token");
 
 module.exports = {
   collections: async function () {
-    const collections = await Collection.find();
-    return collections.map((collection) => {
-      return {
-        ...collection._doc,
-        _id: collection._id.toString(),
-      };
-    });
+    const collections = await Collection.find({});
+    return collections;
   },
-
-  updateCollection: async function ({ id, collectionInput }) {
-    const collection = await Collection.findById(id);
-    if (!collection) {
-      throw new Error("Collection Not found!");
-    }
-    collection.name = collectionInput.name;
-
-    const updatedCollection = await collection.save();
-    return {
-      ...updatedCollection._doc,
-      _id: updatedCollection._id.toString(),
-    };
+  collection: async function ({ id }) {
+    const collection = await Collection.findOne({ collectionId: id });
+    return collection;
+  },
+  tokens: async function ({ collectionId }) {
+    const tokens = await Token.find({ collectionId: collectionId });
+    return tokens;
+  },
+  token: async function ({ id }) {
+    const token = await Token.findOne({ tokenId: id });
+    return token;
   },
 };

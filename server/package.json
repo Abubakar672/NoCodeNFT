@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "node": "19.7.0"
+  },
   "scripts": {
     "start": "nodemon index.js"
   },
@@ -19,6 +22,7 @@
     "graphql": "15.5",
     "mongodb": "^5.1.0",
     "mongoose": "^7.0.0",
+    "node-cron": "^3.0.2",
     "nodemon": "^2.0.20",
     "winston": "^3.8.2",
     "winston-mongodb": "^5.1.1"
